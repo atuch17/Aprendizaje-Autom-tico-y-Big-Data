@@ -1,1 +1,1 @@
-# Aprendizaje-Autom-tico-y-Big-Data
+# Aprendizaje-Automático-y-Big-Data
